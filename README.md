@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SunniDaze7
-- 👀 I’m interested in web design and game development
+- 👋 Hi, I’m Sunni Mcdougle
+- 👀 I’m interested in web design, game development, and illustrating
 - 🌱 I’m currently learning intermediate level programming and working on simple projects
 - 💞️ I’m looking to collaborate on anything I can :)
 -  If you have questions feel free to ask!
