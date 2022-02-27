@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on anything I can :)
 -  If you have questions feel free to ask!
 - twitter: @sunnidazecodes
+- linkedIn: www.linkedin.com/in/sunni-mcdougle-664967229
 
 <!---
 SunniDaze7/SunniDaze7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
