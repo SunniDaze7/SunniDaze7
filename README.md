@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sunni Mcdougle
+- 👋 Hi, I’m Sunny Mcdougle
 - 👀 I’m interested in data analytics and web design
 - 🌱 I’m currently learning intermediate level analytical skills and programming as well as working on simple projects
 - 💞️ I’m looking to collaborate on anything I can :)
