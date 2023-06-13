@@ -2,7 +2,6 @@
 - 👀 I’m interested in data analytics and web design
 - 🌱 I’m currently learning intermediate level analytical skills and programming as well as working on simple projects
 - 💞️ I’m looking to collaborate on anything I can :)
--  If you have questions feel free to ask!
 - linkedIn: www.linkedin.com/in/sunni-mcdougle
 
 <!---
