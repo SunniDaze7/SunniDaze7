@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunny Mcdougle
-- 👀 I’m interested in data analytics and web design
-- 🌱 I’m currently learning intermediate level analytical skills and programming as well as working on simple projects
+- 👀 I’m interested in backend programming and cloud deployment
+- 🌱 I’m currently learning SAP cloud programming and AWS
 - 💞️ I’m looking to collaborate on anything I can :)
 - linkedIn: www.linkedin.com/in/sunni-mcdougle
 
